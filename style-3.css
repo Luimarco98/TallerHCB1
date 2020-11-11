@@ -1,0 +1,90 @@
+/* Add your styles here */
+a[href="http://www.uniandes.edu.co"] {
+  color: rgb(37,92,32);
+  font-style:italic;
+  font-size:large;
+}
+div{
+  width: 575px;
+ 
+  background-color: aliceblue;
+  margin: 10px;
+  display:inline-block;
+}
+.a1{
+  width: 300px;
+  position:fixed;
+  background-color: aliceblue;
+   top: 350px;
+ left:600px;
+}
+.a2{
+  width: 575px;
+  position:fixed;
+  background-color: aliceblue;
+   top: 550px;
+ left:0px;
+}
+.a3{
+  width: 300px;
+  position:fixed;
+  background-color: aliceblue;
+   top: 540px;
+ left:600px;
+}
+.a4{
+  width: 575px;
+  height: 50px;
+  position:fixed;
+  background-color: aliceblue;
+   top: 650px;
+ left:0px;
+}
+.a5{
+  width: 80px;
+  height: 50px;
+  position:fixed;
+  background-color: rgb(27, 143, 245);
+   top: 715px;
+ left:0px;
+}
+.a6{
+  width: 80px;
+  height: 50px;
+  position:fixed;
+  background-color: rgb(27, 143, 245);
+   top: 715px;
+ left: 100px;
+}
+.a7{
+  width: 80px;
+  height: 50px;
+  position:fixed;
+  background-color: rgb(27, 143, 245);
+   top: 715px;
+ left: 200px;
+}
+.a8{
+  width: 80px;
+  height: 50px;
+  position:fixed;
+  background-color: rgb(27, 143, 245);
+   top: 715px;
+ left: 300px;
+}
+.a9{
+  width: 80px;
+  height: 50px;
+  position:fixed;
+  background-color: rgb(27, 143, 245);
+   top: 715px;
+ left: 400px;
+}
+.a10{
+  width: 80px;
+  height: 50px;
+  position:fixed;
+  background-color: rgb(27, 143, 245);
+   top: 715px;
+ left: 500px;
+}
